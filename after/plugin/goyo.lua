@@ -1,0 +1,3 @@
+--local goyo = require('Goyo.Goyo')
+-- Goyo plugin makes text more readable when writing prose:
+--vim.keymap.set("n", "<leader>f", goyo. \| set bg=light \| set linebreak<CR>)
